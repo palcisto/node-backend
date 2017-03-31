@@ -1,0 +1,13 @@
+{
+  "name": "movie-analyst-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:palcisto/node-backend.git",
+  "author": "Patrick Alcisto <patrickalcisto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-api-jwt-rsa-validation": "^0.0.1",
+    "express": "^4.15.2",
+    "express-jwt": "^5.1.0"
+  }
+}
